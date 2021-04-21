@@ -3,12 +3,14 @@
 ## 目录
 
 - [目录](#目录)
-- [计算机基础](#CS-Basics)
-- [计算机技术](#CS-Technical)
+- [CS-Resources](#CS-Resources)
+- [CS-Basics](#CS-Basics)
+- [CS-Technical](#CS-Technical)
     - [MySQL](#MySQL)
-- [计算机项目](#CS-Project)
-- [计算机面试](#CS-Interview)
-- [计算机资源](#CS-Resources)
+- [CS-Project](#CS-Project)
+- [CS-Interview](#CS-Interview)
+
+## CS-Resources
 
 ## CS-Basics
 
@@ -20,8 +22,11 @@
 
 ## CS-Project
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome)
+- [JavaFamily](https://github.com/AobingJava/JavaFamily)
+
 ## CS-Interview
-
-## CS-Resources
-
 
