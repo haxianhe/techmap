@@ -3,12 +3,20 @@
 ## 目录
 
 - [目录](#目录)
-- [CS-Resources](#CS-Resources)
-- [CS-Basics](#CS-Basics)
-- [CS-Technical](#CS-Technical)
-    - [MySQL](#MySQL)
-- [CS-Project](#CS-Project)
-- [CS-Interview](#CS-Interview)
+- [计算机资源](#CS-Resources)
+	- [经典网站](#经典网站) 
+	- [经典教程](#经典教程)
+	- [官方文档](#官方文档)
+	- [**开源项目**](#开源项目)
+	- [经典书籍](#经典书籍)
+	- [经典文章](#经典文章)
+	- [技术团队博客](#技术团队博客)
+	- [个人技术博客](#个人技术博客)
+- [计算机基础](#CS-Basics)
+- [计算机技术l](#CS-Technical)
+	- [MySQL](#MySQL)
+- [计算机项目](#CS-Project)
+- [计算机面试](#CS-Interview)
 
 ## CS-Resources
 
@@ -76,6 +84,13 @@ letcode 项目
 - [高性能MySQL](https://book.douban.com/subject/23008813/)
 - [Redis设计与实现](https://book.douban.com/subject/25900156/)
 
+### 经典文章
+
+- [如何写一份有效的技术简历](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
+- [如何在面试中介绍自己的项目经验](https://www.cnblogs.com/JavaArchitect/p/7586949.html)
+- [如何在面试中介绍自己的项目亮点](https://www.cnblogs.com/JavaArchitect/p/12298114.html)
+- [如何在面试中介绍自己的线上问题](https://www.cnblogs.com/JavaArchitect/p/12466948.html)
+
 ### 技术团队博客
 
 - [美团技术团队](https://tech.meituan.com/)
@@ -90,20 +105,14 @@ letcode 项目
 - [唐巧的博客](https://blog.devtang.com/)
 - [五分钟学算法](https://www.cxyxiaowu.com/)
 
-### 经典文章
-
-- [如何写一份有效的技术简历](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
-- [如何在面试中介绍自己的项目经验](https://www.cnblogs.com/JavaArchitect/p/7586949.html)
-- [如何在面试中介绍自己的项目亮点](https://www.cnblogs.com/JavaArchitect/p/12298114.html)
-- [如何在面试中介绍自己的线上问题](https://www.cnblogs.com/JavaArchitect/p/12466948.html)
-
 ## CS-Basics
 
 ## CS-Technical
 
 ### MySQL
 
-- [MySQL概述](https://mp.weixin.qq.com/s/LbmVtd_6G6MhdcllLMzC5w)
+- [《破壁MySQL》 - MySQL概述](https://mp.weixin.qq.com/s/LbmVtd_6G6MhdcllLMzC5w)
+- [《破壁MySQL》 - MySQL索引](https://mp.weixin.qq.com/s?__biz=MzI3NTQ3NjIxNA==&mid=2247483877&idx=1&sn=bbe8d8144bfc65761334a5d91865b626&chksm=eb057a7cdc72f36a4698cc30a4db442c88d3558fe73f180364724e5c1bdecfd872d241b8f2fb&scene=178&cur_album_id=1688007560336867334#rd)
 
 ## CS-Project
 
@@ -115,3 +124,7 @@ letcode 项目
 
 ## CS-Interview
 
+### 面试三部曲
+- [涨薪50%，从小厂逆袭快手 - 附面经](https://mp.weixin.qq.com/s/WwJ67rCUG58xWFvfjhIeAQ)
+- [从小厂逆袭快手，我是如何准备面试的](https://mp.weixin.qq.com/s/RPjUcSHvz2fxedfFCQPgvw)
+- [从小厂逆袭快手，我是如何从PHP转Java的](https://mp.weixin.qq.com/s/dZ2kSDXuRdk6wMAP0JsnpQ)
