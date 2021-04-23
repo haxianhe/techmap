@@ -70,6 +70,12 @@ letcode 项目
 
 ### 经典书籍
 
+计算机
+- [黑客与画家](https://book.douban.com/subject/6021440/)
+- [MySQL技术内幕](https://book.douban.com/subject/24708143/)
+- [高性能MySQL](https://book.douban.com/subject/23008813/)
+- [Redis设计与实现](https://book.douban.com/subject/25900156/)
+
 ### 技术团队博客
 
 - [美团技术团队](https://tech.meituan.com/)
