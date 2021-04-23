@@ -64,7 +64,8 @@ letcode 项目
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 
 技术方案项目
--[miaosha](https://github.com/qiurunze123/miaosha)
+
+- [miaosha](https://github.com/qiurunze123/miaosha)
 
 优秀项目推荐项目
 - [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
