@@ -22,13 +22,13 @@
 
 ### 经典网站
 
-- [Github](https://github.com)
-- [Leetcode](https://leetcode-cn.com/)
-- [Stack Overflow](https://stackoverflow.com/)
-- [知乎](https://www.zhihu.com/)
-- [V2EX](https://www.v2ex.com/)
-
-- [Gitee](https://gitee.com/)
+- [源码 - Github](https://github.com)
+- [源码 - Gitee](https://gitee.com/)
+- [刷题 - Leetcode](https://leetcode-cn.com/)
+- [刷题 - 牛客网](https://www.nowcoder.com/profile/1028460)
+- [问答 - Stack Overflow](https://stackoverflow.com/)
+- [问答 - 知乎](https://www.zhihu.com/)
+- [论坛 - V2EX](https://www.v2ex.com/)
 
 ### 经典教程
 
@@ -40,6 +40,7 @@
 
 - [官方文档 - PHP](https://www.php.net/manual/en/)
 - [官方文档 - Java8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html)
+- [官方文档 - Go](https://tour.golang.org)
 - [官方文档 - MySQL](https://dev.mysql.com/doc/)
 - [官方文档 - Redis](https://redis.io/)
 - [官方文档 - Kafka](http://kafka.apachecn.org/)
@@ -80,10 +81,10 @@ letcode 项目
 ### 经典书籍
 
 计算机
-- [黑客与画家](https://book.douban.com/subject/6021440/)
-- [MySQL技术内幕](https://book.douban.com/subject/24708143/)
-- [高性能MySQL](https://book.douban.com/subject/23008813/)
-- [Redis设计与实现](https://book.douban.com/subject/25900156/)
+- [《黑客与画家》](https://book.douban.com/subject/6021440/)
+- [《MySQL技术内幕》](https://book.douban.com/subject/24708143/)
+- [《高性能MySQL》](https://book.douban.com/subject/23008813/)
+- [《Redis设计与实现》](https://book.douban.com/subject/25900156/)
 
 ### 经典文章
 
@@ -109,6 +110,15 @@ letcode 项目
 ## CS-Basics
 
 ## CS-Technical
+
+### PHP
+
+- [《软件开发：PHP 卷》](https://haxianhe.gitbook.io/php/)
+
+### Go
+
+- [Go 学习指南](doc/go/go.md)
+
 
 ### MySQL
 
